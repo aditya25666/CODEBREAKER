@@ -120,24 +120,6 @@ npm run preview
 
 ---
 
-## 📸 Screenshots
-
-Create a `screenshots` folder and add images such as:
-
-## Home Screen
-
-![Home](screenshots/home.png)
-
-## Gameplay
-
-![Gameplay](screenshots/gameplay.png)
-
-## Win Screen
-
-![Win](screenshots/win.png)
-```
-
----
 
 ## 💡 Future Improvements
 
