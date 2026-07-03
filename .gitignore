@@ -1,0 +1,44 @@
+```gitignore
+# Dependencies
+node_modules/
+
+# Production Build
+dist/
+
+# Environment Variables
+.env
+.env.*
+!.env.example
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Vite
+.vite/
+
+# Editor Settings
+.vscode/
+.idea/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Cache
+.cache/
+.eslintcache
+
+# Temporary Files
+*.tmp
+*.temp
+*.swp
+*.swo
+
+# Coverage
+coverage/
+```
