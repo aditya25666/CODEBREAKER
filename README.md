@@ -85,7 +85,7 @@ CODEBREAKER/
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/CODEBREAKER.git
+git clone https://github.com/aditya25666/CODEBREAKER.git
 ```
 
 Navigate to the project folder:
@@ -124,18 +124,6 @@ npm run preview
 
 Create a `screenshots` folder and add images such as:
 
-```
-screenshots/
-│
-├── home.png
-├── gameplay.png
-├── win.png
-└── lose.png
-```
-
-Then display them:
-
-```md
 ## Home Screen
 
 ![Home](screenshots/home.png)
@@ -168,7 +156,7 @@ Then display them:
 
 **Aditya Ingle**
 
-GitHub: https://github.com/YOUR_USERNAME
+GitHub: https://github.com/aditya25666
 
 ---
 
